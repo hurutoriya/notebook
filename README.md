@@ -1,2 +1,4 @@
 # notebook
-jupyter notebook sandbox
+jupyter notebook Playgrounds
+
+- Proposed Method implementation note.
